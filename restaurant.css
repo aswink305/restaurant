@@ -1,0 +1,203 @@
+#div1{
+
+    height: 1000px;
+    width: 100%;
+    background-image: url(kitchen.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+body{
+    background-size: cover;
+}
+#div2{
+    height: 50px;
+    width: 1600px;
+    background-color: coral;
+    
+}
+#p1{
+    font-family: 'Monoton', cursive;
+    font-size: 40px ;
+    padding: 00px 00px 50px px;
+    
+}
+#table1{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 70px;
+    color: rgb(0, 0, 0);
+    padding: 100px 00px 00px 30px;
+    color: #0f0d0d;
+
+text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+color: #000000;
+
+    
+}#table2{
+    padding: 00px 00px 00px 30px;
+    font-family: 'Dancing Script', cursive;
+    color: azure;
+    font-size: 30px;
+    color: #090808;
+   
+    text-shadow: 3px 5px 2px #000000;
+    color: #ffffff;
+    margin: 30px 00px 00px 00px;
+}
+#p2{
+    font-size: 15px;
+    color:coral;
+    margin: 250px 00px 00px 00px;
+   text-decoration: underline;
+}
+#div3{
+    height: 1000px;
+    width: 1000px;
+    background-color: white;
+
+  
+}
+#div4{
+    height:90px;
+    width: 600px;
+    background-color:yellow ;
+    margin: 00px 00px 00px 100px;
+
+}
+
+#p3{
+    padding: 3px 00px 00px 400px;
+    font-family: 'Secular One', sans-serif;
+    font-size: 60px;
+}
+#div5{
+    margin: -90px 00px 00px 150px;
+}
+#img1{
+    margin: -450px 00px 00px 850px;
+}
+
+
+#div6{
+    height: 400px;
+    width: 350px;
+    background-color: white;
+    margin: -400px 00px 00px 500px;
+    border-bottom: 50px solid black;
+   border-bottom-left-radius: 150px;
+
+}
+#p4{
+    padding: 00px 15px 00px 00px;
+   text-align:right;
+}
+#p5{
+    font-family: 'Abril Fatface', cursive;
+    color: rgb(255, 98, 0);
+    margin: -200px 0px 00px 400px;
+    font-size: 70px;
+}#p6{
+    margin: 00px 00px 00px 20px;
+    font-size: 17px;
+    text-align: center;
+    color: white;
+}
+
+#p7{
+    margin: 00px 00px 00px 700px;
+    font-size: 20px;
+    font-family: 'Paytone One', sans-serif;
+    color: #FFF;
+
+}
+
+#div9{
+    height: 1000px;
+    width: 1500px;
+    background-size: cover;
+    background-image: url(pexels-edward-eyer-2923034.jpg);
+}
+#div12{
+    height: 500px;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    margin: 250px 00px 00px 220px;
+    display: inline-block;
+    opacity: 70%;
+}
+#div13{
+    height: 500px;
+    width: 300px;
+    background-color: rgb(0, 0, 0);
+    margin: 00px 00px 00px 40px;
+    display: inline-block;
+    opacity: 70%;
+}
+#div14{
+    height: 500px;
+    width: 300px;
+    background-color:rgb(158, 97, 53) ;              
+    
+    margin: 00px 00px 00px 40px;
+    display: inline-block ;
+    opacity: 70%;
+    
+}
+#p9{
+    font-size: 100px;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    opacity: 100%;
+}
+#p10{
+    font-size: 30px;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    opacity: 150%;
+    
+}
+#p11{
+    font-size: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+
+}#p12{
+    font-size: 100px;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    opacity: 100%;
+}
+#p13{
+    font-size: 30px;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    opacity: 150%;
+   
+}
+#p14{
+    font-size: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+}
+#p15{
+    font-size: 100px;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    opacity: 100%;
+    
+}
+#p16{
+    font-size: 30px;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    opacity: 150%;
+
+}
+#p17{
+    font-size: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+}
+
+
